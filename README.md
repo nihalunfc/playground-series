@@ -23,7 +23,8 @@ To achieve, I rely on these stack:
 
 | Episode | Challenge | Objective | Status |
 | :--- | :--- | :--- | :--- |
-| **S6E2** | [Predicting Heart Disease](./S6E2-Heart-Disease) | Binary Classification (AUC-ROC) | 🏗️ In Progress |
+| **S6E1** | [Yet to update](./S6E1) | In Progress | In Progress |
+| **S6E2** | [Predicting Heart Disease](./S6E2-Heart-Disease) | Binary Classification (AUC-ROC) | In Progress |
 
 ---
 > "The data is the map, but the code is the compass." 
