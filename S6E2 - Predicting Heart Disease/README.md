@@ -9,7 +9,7 @@ I have stepped into the medical domain for the second episode of the 2026 season
     * *In simple terms:* I'm not just saying "Yes" or "No" to heart disease. I'm ranking every patient by their probability of risk.
 3. **The Strategy:** I am currently performing a deep dive into the feature distributions to see if the "synthetic" nature of the data has introduced any strange patterns I can exploit.
 
-### Current Progress & Log
+### Current Progress & Log 
 * **Initial Commit:** Structured the project and downloaded the 630,000-row training set.
 * **Next Step:** Perform a comprehensive EDA to visualize how `Age` and `Cholesterol` interact.
 
