@@ -13,5 +13,7 @@ I have stepped into the medical domain for the second episode of the 2026 season
 * **Initial Commit:** Structured the project and downloaded the 630,000-row training set.
 * **Next Step:** Perform a comprehensive EDA to visualize how `Age` and `Cholesterol` interact.
 
+### Documentation Strategy
+I have chosen to document my progress using Jupyter Notebooks (.ipynb). Unlike static scripts, these notebooks serve as a living laboratory where my code, visualizations, and strategic insights coexist. By preserving the output of every experiment, I maintain a transparent record of my journey from a baseline model to a high-ranking competitor.
 ---
 *This project utilizes datasets provided by Kaggle and leverages open-source ML frameworks.*
