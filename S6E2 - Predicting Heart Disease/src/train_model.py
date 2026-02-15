@@ -2,7 +2,7 @@
 # PROJECT: Heart Disease Risk Prediction (Kaggle S6E2)
 # SCRIPT: train_model.py
 # DESCRIPTION: Production script for the Winning Stacking Ensemble (Trial 07)
-# AUTHOR: [Your Name]
+# AUTHOR: Nihal V S
 # ==============================================================================
 
 import pandas as pd
