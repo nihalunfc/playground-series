@@ -69,5 +69,6 @@ To further improve predictive accuracy and aim for the Top 100, future iteration
 
 ---
 
-**Author:** [Your Name]
+# To retrain the model and generate a submission file:
+python src/train_model.py
 *Master's Student, Data Analytics*
