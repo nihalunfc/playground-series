@@ -1,0 +1,17 @@
+# Ignore Data Files (Too large for GitHub)
+*.csv
+*.zip
+*.7z
+/data/
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignore System Files
+.DS_Store
+Thumbs.db
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
